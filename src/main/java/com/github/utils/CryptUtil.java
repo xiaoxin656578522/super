@@ -25,6 +25,7 @@ public class CryptUtil {
         System.out.println("加密：" + data);
         String jiemi = desEncrypt("sEBFvKdCWsesbaBxABwmGg==").trim();
         System.out.println("解密：" + jiemi);
+        System.out.println("解密：" + jiemi);
     }
     //使用AES-128-CBC加密模式，key需要为16位,
 
